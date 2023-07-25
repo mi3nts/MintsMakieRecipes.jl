@@ -3,6 +3,9 @@ uuid = "6ebddb0b-cb6d-4cb8-921a-b084ea45d677"
 authors = ["John Waczak <john.louis.waczak@gmail.com>"]
 version = "1.0.0-DEV"
 
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+
 [compat]
 julia = "1.9"
 

@@ -1,5 +1,9 @@
 module MintsMakieRecipes
 
-# Write your package code here.
+
+using CairoMakie
+
+
+include("makie_defaults.jl")
 
 end

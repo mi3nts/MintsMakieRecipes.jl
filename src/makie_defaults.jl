@@ -1,10 +1,3 @@
-using CairoMakie
-
-# font files from google fonts
-montserrat_path = "src/font-files/montserrat"
-@assert ispath(montserrat_path)
-
-
 mints_colors = [
     colorant"#3cd184", # mint green
     colorant"#f97171", # dark coral

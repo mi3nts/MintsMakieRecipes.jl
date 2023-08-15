@@ -1,7 +1,7 @@
 module MintsMakieRecipes
 
 
-using CairoMakie
+using Makie
 using RelocatableFolders
 
 
@@ -14,7 +14,7 @@ include("makie_defaults.jl")
 export mints_colors, mints_font, mints_theme
 
 
-include("basemap.jl")
-export BaseMap, get_basemap
+# include("basemap.jl")
+# export BaseMap, get_basemap
 
 end

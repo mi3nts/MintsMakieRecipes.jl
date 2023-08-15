@@ -23,7 +23,7 @@ set_theme!(mints_theme)
 ```
 This will configure a variety of settings including fonts, font-sizes, default color cycles, color maps, etc...
 
-![MINTS plotting recipe](./assets/demo.pdf)
+![MINTS plotting recipe](./assets/demo.png)
 
 # Plot Recipes
 Coming soon! 

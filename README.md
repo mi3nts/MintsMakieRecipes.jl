@@ -23,6 +23,8 @@ set_theme!(mints_theme)
 ```
 This will configure a variety of settings including fonts, font-sizes, default color cycles, color maps, etc...
 
+![MINTS plotting recipe](./assets/demo.pdf)
+
 # Plot Recipes
 Coming soon! 
 ## Plotting Recipes for Supervised Regression
